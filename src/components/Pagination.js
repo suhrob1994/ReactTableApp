@@ -1,5 +1,5 @@
 import React from 'react';
-import PaginationUtils from '../Utils/PaginationUtils';
+import PaginationUtils from '../utils/PaginationUtils';
 
 class Pagination extends React.Component {
     constructor(props) {
